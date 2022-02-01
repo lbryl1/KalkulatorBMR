@@ -20,8 +20,7 @@
         } else if (getActivity === "Praca fizyczna/trening codziennie") {
             evalActivity = 2;
         
-        } else {
-            evalActivity = "coś poszło nie tak!";
+        
         }
         var weight = _("weight").value;
         var age = _("age").value;
